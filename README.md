@@ -1,4 +1,4 @@
-# Week2
+# CSS-Portfolio
 This is Week 2 Homework. I worked on my portfolio and added links to my resume and other works I have done.
 ![screenshot 1](Assets/Screenshotnum1.png)
 ![screenshot 2](Assets/Screenshotnum2.png)
